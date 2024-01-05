@@ -14,16 +14,16 @@
       <![CDATA[Log:Login is completed with valid data set]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-12-29T21:09:52 IST" name="Suite" finished-at="2023-12-29T21:10:11 IST" duration-ms="18882">
+  <suite started-at="2024-01-04T21:35:38 IST" name="Suite" finished-at="2024-01-04T21:35:59 IST" duration-ms="20464">
     <groups>
     </groups>
-    <test started-at="2023-12-29T21:09:52 IST" name="Test" finished-at="2023-12-29T21:10:11 IST" duration-ms="18882">
+    <test started-at="2024-01-04T21:35:38 IST" name="Test" finished-at="2024-01-04T21:35:59 IST" duration-ms="20464">
       <class name="com.SwagLabs.TestCases.OverviewPageTest">
-        <test-method is-config="true" signature="reports()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2023-12-29T21:09:52 IST" name="reports" finished-at="2023-12-29T21:09:52 IST" duration-ms="361" status="PASS">
+        <test-method is-config="true" signature="reports()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2024-01-04T21:35:38 IST" name="reports" finished-at="2024-01-04T21:35:38 IST" duration-ms="430" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- reports -->
-        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2023-12-29T21:09:52 IST" name="setUpBrowser" finished-at="2023-12-29T21:09:55 IST" duration-ms="2725" status="PASS">
+        <test-method is-config="true" signature="setUpBrowser()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2024-01-04T21:35:38 IST" name="setUpBrowser" finished-at="2024-01-04T21:35:42 IST" duration-ms="4074" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Log: Driver session is created]]>
@@ -33,7 +33,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- setUpBrowser -->
-        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2023-12-29T21:09:55 IST" name="pageSetUp" finished-at="2023-12-29T21:10:11 IST" duration-ms="15595" status="PASS">
+        <test-method is-config="true" signature="pageSetUp()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2024-01-04T21:35:42 IST" name="pageSetUp" finished-at="2024-01-04T21:35:58 IST" duration-ms="15736" status="PASS">
           <reporter-output>
             <line>
               <![CDATA[Log: Login page is open]]>
@@ -43,15 +43,15 @@
             </line>
           </reporter-output>
         </test-method> <!-- pageSetUp -->
-        <test-method signature="verifySummary()[pri:1, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2023-12-29T21:10:11 IST" name="verifySummary" finished-at="2023-12-29T21:10:11 IST" duration-ms="262" status="PASS">
+        <test-method signature="verifySummary()[pri:1, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2024-01-04T21:35:58 IST" name="verifySummary" finished-at="2024-01-04T21:35:58 IST" duration-ms="293" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifySummary -->
-        <test-method signature="verifyOverview()[pri:2, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2023-12-29T21:10:11 IST" name="verifyOverview" finished-at="2023-12-29T21:10:11 IST" duration-ms="265" status="PASS">
+        <test-method signature="verifyOverview()[pri:2, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2024-01-04T21:35:58 IST" name="verifyOverview" finished-at="2024-01-04T21:35:59 IST" duration-ms="299" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyOverview -->
-        <test-method is-config="true" signature="exitReport()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2023-12-29T21:10:11 IST" name="exitReport" finished-at="2023-12-29T21:10:12 IST" duration-ms="508" status="PASS">
+        <test-method is-config="true" signature="exitReport()[pri:0, instance:com.SwagLabs.TestCases.OverviewPageTest@27462a88]" started-at="2024-01-04T21:35:59 IST" name="exitReport" finished-at="2024-01-04T21:35:59 IST" duration-ms="524" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- exitReport -->
