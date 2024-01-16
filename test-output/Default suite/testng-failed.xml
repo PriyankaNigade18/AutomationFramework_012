@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="elementsActions.ScrollAction">
+      <class name="newScenarios.AlertHandling">
         <methods>
-          <include name="scrollTest"/>
+          <include name="alertTest"/>
         </methods>
-      </class> <!-- elementsActions.ScrollAction -->
+      </class> <!-- newScenarios.AlertHandling -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
