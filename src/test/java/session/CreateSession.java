@@ -16,7 +16,7 @@ public class CreateSession
 		  DesiredCapabilities cap=new DesiredCapabilities();
 		  cap.setCapability("platformName","Android");
 		  cap.setCapability("appium:automationName", "uiautomator2");
-		  cap.setCapability("appium:deviceName","pixel_6");
+		  cap.setCapability("appium:deviceName","pixel_5");
 		  cap.setCapability("appium:udid","emulator-5554");
 		  
 		    //application

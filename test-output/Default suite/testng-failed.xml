@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="newScenarios.AlertHandling">
+      <class name="session.LaunchAVDAutomatically">
         <methods>
-          <include name="alertTest"/>
+          <include name="f"/>
         </methods>
-      </class> <!-- newScenarios.AlertHandling -->
+      </class> <!-- session.LaunchAVDAutomatically -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
